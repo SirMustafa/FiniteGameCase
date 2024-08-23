@@ -1,0 +1,34 @@
+{
+    "name": "PlayerActions",
+    "maps": [
+        {
+            "name": "Mobile",
+            "id": "73815da0-923c-4d6d-80f5-ec5fc956cbda",
+            "actions": [
+                {
+                    "name": "Exit",
+                    "type": "Button",
+                    "id": "627e271f-b76f-4908-9e0e-42eadec5d4b0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "53855fac-46fe-4105-9cce-0d4c4ae0b19d",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Exit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
